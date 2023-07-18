@@ -1,4 +1,4 @@
-# Keyword & Their Weightage Extraction
+# Keywords & Their Frequency / Weightage Extraction
 
 This program extract keywords by analyzing the frequency of word appearance and its co-occurance with other words.
 
