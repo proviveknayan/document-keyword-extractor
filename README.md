@@ -18,10 +18,10 @@ git checkout -b feature/AmazingFeature
 ```
 3. Commit your changes
 ```sh
-`git commit -m "add some amazing feature"`
+git commit -m "add some amazing feature"
 ```
 4. Push to the branch 
 ```sh
-`git push origin feature/AmazingFeature`
+git push origin feature/AmazingFeature
 ```
 5. Open a pull request
